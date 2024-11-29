@@ -1,0 +1,64 @@
+@charset "utf-8";
+body {
+    background-color: rgb(13,13,13,);
+    color: rgba(255,255,255,1.00);
+}
+.pp_footer {
+    background-color: rgba(13,13,13);
+}
+.nav-style {
+    background-color: rgba(64,64,64);
+    font-family: lora;
+    font-style: normal;
+    font-weight: 400;
+}
+
+p {
+    font-family: Poppins, "Poppins Black", "Poppins Light", "Poppins Medium";
+    font-style: normal;
+    font-weight: 400;
+	
+}
+.nav-link- {
+    font-family: lora;
+    font-style: normal;
+    font-weight: 350;
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+}
+
+h5 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+	
+}
+
+.card_ {
+    background-color: rgba(217,217,217);
+	
+}
+.p {
+    font-family: Poppins, "Poppins Black", "Poppins Light", "Poppins Medium";
+    font-style: normal;
+    font-weight: 400;
+	
+}
+.h5 {
+    font-family: lora;
+    font-style: normal;
+    font-weight: 400;
+}
+.img {
+}
+
+ text-white{
+	color: darkblue;
+}
+h4{
+	color:black;
+}
+h3{
+	color: black;
+}
